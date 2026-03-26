@@ -38,3 +38,4 @@ class RecipeService:
         if 0 <= index < len(recipes):
             recipes[index] = recipe.to_dict()
             self.save_all(recipes)
+            

@@ -10,3 +10,4 @@ class Recipe:
             "ingredients": self.ingredients,
             "instructions": self.instructions
         }
+        
