@@ -4,7 +4,7 @@ from .recipe import Recipe
 
 class RecipeService:
     def __init__(self):
-        BASE_DIR = os.path.dirname(os.path.dirname(os.path.abspath(_file_)))
+        BASE_DIR = os.path.dirname(os.path.dirname(os.path.abspath(__file__)))
 
         self.data_path = os.path.join(BASE_DIR, "data", "recipes.json")
 
