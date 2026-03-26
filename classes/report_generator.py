@@ -3,7 +3,7 @@ import os
 class ReportGenerator:
     @staticmethod
     def generate_report(recipes):
-        BASE_DIR = os.path.dirname(os.path.dirname(os.path.abspath(_file_)))
+        BASE_DIR = os.path.dirname(os.path.dirname(os.path.abspath(__file__)))
 
         report_dir = os.path.join(BASE_DIR, "reports")
         os.makedirs(report_dir, exist_ok=True)
