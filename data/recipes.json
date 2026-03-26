@@ -1,1 +1,12 @@
-[]
+[
+    {
+        "name": "Chocolate Cake ",
+        "ingredients": "Flour,Cocoa,Sugar,Eggs",
+        "instructions": "Mix and bake"
+    },
+    {
+        "name": "Vegetable Stir Fry",
+        "ingredients": "Broccoli,Carrot,Soy Sauce",
+        "instructions": "Stir fry all ingredients"
+    }
+]
