@@ -123,6 +123,19 @@ python main.py
 
 2.Add recipe
 ![Adding recipe](<Screenshot 2026-03-28 120303.png>)
+
+3.Delete Recipe
+![Delete recipe](<Screenshot 2026-03-28 120349.png>)
+
+4.Search
+![Seraching](<Screenshot 2026-03-28 122107.png>)
+
+5.Sort Recipe
+![sort Recipe](image.png)
+
+5.Report Generator
+![Report Generate](<Screenshot 2026-03-28 120424.png>)
+
 ## ⚙️ Notes
 
 * The `data/recipes.json` file is automatically created if not found
