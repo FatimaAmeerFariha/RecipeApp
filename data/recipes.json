@@ -8,5 +8,10 @@
         "name": "Vegetable Stir Fry",
         "ingredients": "Broccoli,Carrot,Soy Sauce",
         "instructions": "Stir fry all ingredients"
+    },
+    {
+        "name": "Donut",
+        "ingredients": "Flour,Sugar,Chocolate,Baking powder",
+        "instructions": "mix all together and fry"
     }
 ]

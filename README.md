@@ -117,7 +117,12 @@ python main.py
 ```
 
 ---
+## 📸 Screenshot of our project —
+1.Dashboard
+![Dashboard](<Screenshot 2026-03-28 120141.png>)
 
+2.Add recipe
+![Adding recipe](<Screenshot 2026-03-28 120303.png>)
 ## ⚙️ Notes
 
 * The `data/recipes.json` file is automatically created if not found

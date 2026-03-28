@@ -8,3 +8,7 @@
    Ingredients: Broccoli,Carrot,Soy Sauce
    Instructions: Stir fry all ingredients
 
+3. Name: Donut
+   Ingredients: Flour,Sugar,Chocolate,Baking powder
+   Instructions: mix all together and fry
+
